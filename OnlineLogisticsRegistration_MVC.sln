@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineLogisticsRegistration_MVC", "OnlineLogisticsRegistration_MVC\OnlineLogisticsRegistration_MVC.csproj", "{23F7B5C8-EFC3-4782-B60A-3F68822630A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserEntity", "UserEntity\UserEntity.csproj", "{B5A3B5AA-A655-4B1B-9A36-4CAA9E0F8927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{8A563239-6405-4C83-8880-3FF730A2E2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F7B5C8-EFC3-4782-B60A-3F68822630A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F7B5C8-EFC3-4782-B60A-3F68822630A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F7B5C8-EFC3-4782-B60A-3F68822630A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F7B5C8-EFC3-4782-B60A-3F68822630A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A3B5AA-A655-4B1B-9A36-4CAA9E0F8927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A3B5AA-A655-4B1B-9A36-4CAA9E0F8927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A3B5AA-A655-4B1B-9A36-4CAA9E0F8927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A3B5AA-A655-4B1B-9A36-4CAA9E0F8927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A563239-6405-4C83-8880-3FF730A2E2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A563239-6405-4C83-8880-3FF730A2E2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A563239-6405-4C83-8880-3FF730A2E2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A563239-6405-4C83-8880-3FF730A2E2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
