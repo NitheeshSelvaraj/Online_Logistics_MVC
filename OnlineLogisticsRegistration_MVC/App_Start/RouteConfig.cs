@@ -20,11 +20,11 @@ namespace OnlineLogisticsRegistration_MVC
             );
                  
 
-            routes.MapRoute(
-                name: "Register",
-                url: "OnlineLogisticsRegistration/Login/{id}",
-                defaults: new { controller = "OnlineLogisticsRegistration", action = "Login", id = UrlParameter.Optional }
-            );
+            ////routes.MapRoute(
+            ////    name: "Register",
+            ////    url: "OnlineLogisticsRegistration/Login/{id}",
+            ////    defaults: new { controller = "OnlineLogisticsRegistration", action = "Login", id = UrlParameter.Optional }
+            ////);
         }
     }
 }
